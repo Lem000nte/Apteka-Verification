@@ -13,7 +13,7 @@
 ## Что нужно для того что бы развернуть его?
 **1. Клонируйте репозиторий, или скопируйте код**
 ```
-git clone https://github.com/your-repo/tg-request-bot.git
+git clone https://github.com/Lem000nte/Apteka-Verification
 cd tg-request-bot
 ```
 **2. Установите зависимости**
