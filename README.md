@@ -14,7 +14,7 @@
 **1. Клонируйте репозиторий, или скопируйте код**
 ```
 git clone https://github.com/Lem000nte/Apteka-Verification.git
-cd tg-request-bot
+cd Apteka-Verification
 ```
 **2. Установите зависимости**
 ```
